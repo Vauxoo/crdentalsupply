@@ -1,1 +1,1 @@
-CR Dental Supply S.A.
+CR. Dental Supply S.A.
