@@ -14,3 +14,7 @@
 	path = hr-advanced
 	url = git@git.vauxoo.com:vauxoo/hr-advanced.git
 	branch = 18.0
+[submodule "edi-document"]
+	path = edi-document
+	url = git@git.vauxoo.com:vauxoo/edi-document.git
+	branch = 18.0
